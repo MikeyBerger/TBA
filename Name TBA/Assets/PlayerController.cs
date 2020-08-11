@@ -10,11 +10,12 @@ public class PlayerController : MonoBehaviour
     public float TurnSpeed;
     public float DashSpeed;
     private bool IsDashing;
+    public float RotZ;
 
     // Start is called before the first frame update
     void Start()
     {
-        
+        RB = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -25,7 +26,12 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        
+        //RB.AddForce(new Vector2(RotationVector.x, RotationVector.y) * DashSpeed * Time.deltaTime);
+
+        RotZ = RotationVector.x * TurnSpeed * Time.deltaTime;
+        transform.Rotate(Vector3.forward * RotZ);
+        //RotationVector = new Vector3(0, 0, 0);
+        //RB.MoveRotation(new Vector3(RotationVector.x, 0, RotationVector.y));
     }
 
     public void OnRotation(InputAction.CallbackContext ctx)
