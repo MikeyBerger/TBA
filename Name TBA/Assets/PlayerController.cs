@@ -33,6 +33,8 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
+        #region Junk
+        /*
         //RB.AddForce(new Vector2(RotationVector.x, RotationVector.y) * DashSpeed * Time.deltaTime);
 
         //RotZ = RotationVector.x * TurnSpeed * Time.deltaTime;
@@ -43,10 +45,7 @@ public class PlayerController : MonoBehaviour
         //transform.rotation = Quaternion.LookRotation(new Vector3(RotationVector.x, 0, RotationVector.y));
 #pragma warning restore format
 
-        if (RotationVector.x == 0 && RotationVector.y == 0)
-        {
-            RotationVector = Vector2.up;
-        }
+
 
 
         //Vector2 EulerVec = new Vector2(RotZ, RotX);
@@ -70,8 +69,15 @@ public class PlayerController : MonoBehaviour
         PlayerPos += PlayerRot * Velocity;
 
         transform.position = PlayerPos;
+        
+        #endregion
         */
         #endregion
+
+        if (RotationVector.x == 0 && RotationVector.y == 0)
+        {
+            RotationVector = Vector2.up;
+        }
 
         transform.up = new Vector2(RotationVector.x, RotationVector.y);
 
