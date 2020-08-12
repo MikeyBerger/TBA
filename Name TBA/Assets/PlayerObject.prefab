@@ -189,7 +189,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TurnSpeed: 5
-  DashSpeed: 20000
+  DashSpeed: 50000
   IsDashing: 0
   StopDash: 0.0001
 --- !u!50 &6695520718268162847
