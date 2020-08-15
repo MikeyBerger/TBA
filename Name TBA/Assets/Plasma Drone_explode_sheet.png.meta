@@ -1,0 +1,1076 @@
+fileFormatVersion: 2
+guid: d3be9de8d39bc45c4af847c3490d8222
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5270075414197588752
+    second: Drone3
+  - first:
+      213: 2034471995929009838
+    second: Plasma Drone_explode_sheet_1
+  - first:
+      213: -1072813927730536126
+    second: Plasma Drone_explode_sheet_2
+  - first:
+      213: -4249246505559100104
+    second: Plasma Drone_explode_sheet_3
+  - first:
+      213: 1777213956509279115
+    second: Plasma Drone_explode_sheet_4
+  - first:
+      213: -590833542006545567
+    second: Plasma Drone_explode_sheet_5
+  - first:
+      213: 2927991012905411143
+    second: Plasma Drone_explode_sheet_6
+  - first:
+      213: -4964548970351050755
+    second: Plasma Drone_explode_sheet_7
+  - first:
+      213: 2265670355095620445
+    second: Drone1
+  - first:
+      213: -1713154889518632034
+    second: Drone2
+  - first:
+      213: -5608864757389855372
+    second: Plasma Drone_explode_sheet_10
+  - first:
+      213: -7841092001456781488
+    second: Plasma Drone_explode_sheet_11
+  - first:
+      213: -3681442081416894082
+    second: Plasma Drone_explode_sheet_12
+  - first:
+      213: -6753662476474348466
+    second: Plasma Drone_explode_sheet_13
+  - first:
+      213: 161897178459855108
+    second: Plasma Drone_explode_sheet_14
+  - first:
+      213: 6203245495617646847
+    second: Plasma Drone_explode_sheet_15
+  - first:
+      213: 3852416426377259303
+    second: Plasma Drone_explode_sheet_16
+  - first:
+      213: 3906452096147084337
+    second: Plasma Drone_explode_sheet_17
+  - first:
+      213: -1745722134153933102
+    second: Plasma Drone_explode_sheet_18
+  - first:
+      213: 8458271954163970257
+    second: Plasma Drone_explode_sheet_19
+  - first:
+      213: -328178731312159657
+    second: Plasma Drone_explode_sheet_20
+  - first:
+      213: 2481888432704731962
+    second: Plasma Drone_explode_sheet_21
+  - first:
+      213: -1819664774782180260
+    second: Plasma Drone_explode_sheet_22
+  - first:
+      213: 5401925984965847173
+    second: Plasma Drone_explode_sheet_23
+  - first:
+      213: 3873985163267441400
+    second: Plasma Drone_explode_sheet_24
+  - first:
+      213: 3333573625435427958
+    second: Plasma Drone_explode_sheet_25
+  - first:
+      213: 3684518958299941749
+    second: Plasma Drone_explode_sheet_26
+  - first:
+      213: 3203551146848330523
+    second: Plasma Drone_explode_sheet_27
+  - first:
+      213: -8912764879652982232
+    second: Plasma Drone_explode_sheet_28
+  - first:
+      213: 9042639835262573007
+    second: Plasma Drone_explode_sheet_29
+  - first:
+      213: -1749792888940416698
+    second: Plasma Drone_explode_sheet_30
+  - first:
+      213: 2713283228180462837
+    second: Plasma Drone_explode_sheet_31
+  - first:
+      213: -4258983729472178330
+    second: Plasma Drone_explode_sheet_32
+  - first:
+      213: -9111443534275709935
+    second: Plasma Drone_explode_sheet_33
+  - first:
+      213: 836361527155302081
+    second: Plasma Drone_explode_sheet_34
+  - first:
+      213: 247115693878521373
+    second: Plasma Drone_explode_sheet_35
+  - first:
+      213: -9159623949010990125
+    second: Drone4
+  - first:
+      213: 6084763183820277043
+    second: Drone5
+  - first:
+      213: -1716776814541629718
+    second: Drone6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Drone3
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 48
+        width: 75
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcab35355eecd6b0800000000000000
+      internalID: -5270075414197588752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 150
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae14de4085eb3c10800000000000000
+      internalID: 2034471995929009838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 139
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241a78faa699c11f0800000000000000
+      internalID: -1072813927730536126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 142
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835741111d4a705c0800000000000000
+      internalID: -4249246505559100104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 152
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b832a976daee9a810800000000000000
+      internalID: 1777213956509279115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 138
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163605f1600fcc7f0800000000000000
+      internalID: -590833542006545567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 152
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74263c5205052a820800000000000000
+      internalID: 2927991012905411143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 153
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffb138c3016a1bb0800000000000000
+      internalID: -4964548970351050755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 62
+        width: 50
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b8b951f27417f10800000000000000
+      internalID: 2265670355095620445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 59
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93b40564b6a938e0800000000000000
+      internalID: -1713154889518632034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 120
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475f19e583f4922b0800000000000000
+      internalID: -5608864757389855372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 96
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057030a5e58de2390800000000000000
+      internalID: -7841092001456781488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 71
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79a8fb9ee3e8ecc0800000000000000
+      internalID: -3681442081416894082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 99
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c8cd492cb2642a0800000000000000
+      internalID: -6753662476474348466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 75
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409dc3440ac2f3200800000000000000
+      internalID: 161897178459855108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 113
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0f4dc79ea561650800000000000000
+      internalID: 6203245495617646847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 126
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729a81d2458867530800000000000000
+      internalID: 3852416426377259303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 110
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1345de2fb71863630800000000000000
+      internalID: 3906452096147084337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 85
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dec73dd7f2f5c7e0800000000000000
+      internalID: -1745722134153933102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 98
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0b7994781d16570800000000000000
+      internalID: 8458271954163970257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 110
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754ec41ce23127bf0800000000000000
+      internalID: -328178731312159657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 140
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b34834160717220800000000000000
+      internalID: 2481888432704731962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 107
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5421d047804fb6e0800000000000000
+      internalID: -1819664774782180260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 92
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58867dc001f77fa40800000000000000
+      internalID: 5401925984965847173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 93
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f280b11bf823c530800000000000000
+      internalID: 3873985163267441400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 113
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67490b0ec8b334e20800000000000000
+      internalID: 3333573625435427958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 114
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b09ad987a022330800000000000000
+      internalID: 3684518958299941749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 113
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13a0bf7bcc457c20800000000000000
+      internalID: 3203551146848330523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 50
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822f4b5509f7f4480800000000000000
+      internalID: -8912764879652982232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 63
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc95f9c2509ed7d70800000000000000
+      internalID: 9042639835262573007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 62
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641b33863ac77b7e0800000000000000
+      internalID: -1749792888940416698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 74
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcb8be68b487a520800000000000000
+      internalID: 2713283228180462837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 56
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66774a4fcdc05e4c0800000000000000
+      internalID: -4258983729472178330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 63
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114777c4166ad8180800000000000000
+      internalID: -9111443534275709935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 32
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce15e1b06a5b9b00800000000000000
+      internalID: 836361527155302081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plasma Drone_explode_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 19
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ead001a6eed6300800000000000000
+      internalID: 247115693878521373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone4
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 32
+        width: 101
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db0a035c8a72e080800000000000000
+      internalID: -9159623949010990125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 13
+        width: 126
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3358bf190eb617450800000000000000
+      internalID: 6084763183820277043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Drone6
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 44
+        width: 154
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae69e924598cc28e0800000000000000
+      internalID: -1716776814541629718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
