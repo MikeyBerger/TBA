@@ -11,7 +11,7 @@ public class PlayerControllerV2 : MonoBehaviour
     public float Speed;
     public float DashPower;
     public bool FacingRight;
-    
+
 
     // Start is called before the first frame update
     void Start()
@@ -54,11 +54,7 @@ public class PlayerControllerV2 : MonoBehaviour
         transform.localScale = Scale;
     }
 
-    void Flip()
-    {
-        FacingRight = !FacingRight;
-        transform.Rotate(Vector3.up * 360);
-    }
+
 
 
     #region InputFunctions
